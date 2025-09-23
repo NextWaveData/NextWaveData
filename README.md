@@ -10,6 +10,18 @@ Hi, I am Giulia, a Data Scientist with a background in Data Science, Artificial 
 
 🤸🏼‍♀️ Outside of work, you’ll often find me doing sports, from horse riding to surfing, or simply training at the gym.
 
+
+
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/NextWaveData/count.svg" alt="Visitor's Count" />
+</div>
+
+
+
+
+
+
 <!-- 
 Here are some ideas to get you started:
 
