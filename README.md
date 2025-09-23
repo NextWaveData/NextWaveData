@@ -1,8 +1,16 @@
-## Hi there 👋
+## Welcome to NextWaveData 🏄🏼‍♀️📊
+ 
+Hi, I am Giulia, a Data Scientist with a background in Data Science, Artificial Intelligence, and Economics.
 
-<!--
-**NextWaveData/NextWaveData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🔭  About Me
+- I’m fascinated by how AI can support people in solving problems that once seemed insurmountable, and I’m always curious about the latest developments in the field.
+- I love turning data into actionable insights, from everyday personal finance to complex business challenges with large-scale impact.
+- My interests span across Data Science and Cybersecurity, two areas where data and technology play a key role in shaping the future.
 
+
+🤸🏼‍♀️ Outside of work, you’ll often find me doing sports, from horse riding to surfing, or simply training at the gym.
+
+<!-- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
