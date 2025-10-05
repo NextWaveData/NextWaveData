@@ -1,4 +1,4 @@
-## 🏄🏼‍♀️📊 Welcome to NextWaveData 
+## 📊 Welcome! 
  
 Hi, I am Giulia, a Data Scientist with a background in Data Science, Artificial Intelligence, and Economics.
 
