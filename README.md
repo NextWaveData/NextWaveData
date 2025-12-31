@@ -79,38 +79,18 @@ Hi, I am Giulia, a Data Scientist with a background in Data Science, Artificial 
 <a href="http://www.linkedin.com/in/giuliabovenga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/giuliabovenga" height="30" width="40" /></a>
 </p>
 
-
----
-<!-- Most Used Languages -->
+<!-- 
 <h3>Most Used Languages</h3>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nextwavedata&show_icons=true&title_color=0044aa&text_color=0044aa&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <br><br><br><br><br>
-<!-- GitHub Stats -->
+
 <h3>GitHub Stats</h3>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nextwavedata&show_icons=true&title_color=004aad&text_color=0044aa&hide_border=true&locale=en" alt="GitHub Stats" />
 </p>
 
-
-
-
-
-
-
-
-
-<!-- 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
